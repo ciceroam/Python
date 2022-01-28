@@ -1,10 +1,6 @@
 # Python
 Python projects that I developed for study and portfolio
 
--> DataAnalysis
+-> DataAnalysis: scripts used for ETL, data analysis and data visualization graphing.
 
-Python scripts used for ETL, data analysis and data visualization graphing.
-
--> GeneralScripts
-
-Python scripts used for study and testing.
+-> GeneralScripts: scripts used for study and testing.
